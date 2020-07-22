@@ -1,10 +1,6 @@
 # Coding-Practice
 ### Day-1:
-     1. Control Statements
-     2. Arrays - Single and Multi Dimensional 
-     3. Strings / Structures / Files
-  
-### Problem 1:
+#### Problem 1:
         Read the number as input and Print the output as sum of even digits in the given number
 #### Boundary Conditions:
        1 <= n <= 9999999
