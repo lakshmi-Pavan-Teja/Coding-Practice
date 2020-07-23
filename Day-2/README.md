@@ -142,9 +142,13 @@ The first line contains the integer with the largest digits sum.
 	1<=N<=100000
 
 ### Example Input/Output 1:
+
 #### Input:
+
 100
+
 #### Output:
+
 99
 
 ### Explanation:
@@ -157,14 +161,22 @@ sum of digits in 100 is 1
 From 1 to 100, 99 has the largest digit sum (9 + 9 = 18).
 
 Example Input/Output 2:
+
 Input:
+
 48
 Output:
+
 48
+
 Example Input/Output 3:
+
 Input:
+
 521
+
 Output:
+
 499
 
 
