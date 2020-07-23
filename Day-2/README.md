@@ -74,12 +74,17 @@ Original constraints
 ### Example
 ##### Input:
 3
+
 1 1 8
+
 1 1 4
+
 1 1 2
 ##### Output:
 yes
+
 yes
+
 no
 
 ## Problem 3:
@@ -100,16 +105,25 @@ For each query, output a single line containing the answer — "YES" if there is
 ### Example
 ### Input:
 5
+
 1 4
+
 4 3
+
 5 4
+
 10 12
+
 1 3
 ### Output:
 NO
+
 YES
+
 NO
+
 YES
+
 YES
 ### Explanation
 In the example test, the answer is "YES" for pairs (4, 3), (10, 12), (1, 3) and (999999999, 1000000000). Roads 3-4 and 1-3 you can see on the drawing in the statement.
