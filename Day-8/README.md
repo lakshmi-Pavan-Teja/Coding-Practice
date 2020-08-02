@@ -15,3 +15,9 @@
 2. Stack - Linked List(Dynamic Memory)
 3. Queue - Array(Static Memory)
 
+![image](https://user-images.githubusercontent.com/61023747/89128838-12d27280-d516-11ea-8a08-8f791bd974fc.png)
+
+1. Queue uses Rear to allow the value and Front to remove the value
+2. Inserting a value to the Queue is called as Enqueue
+3. Deleting a value from the queue is called as Dequeue
+4. Queue - First IN First OUT approch
