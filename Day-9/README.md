@@ -17,4 +17,12 @@
 
 • If the Doubly Linked List is having more than one Node then First Node Previous Field is points to NULL and Last Node Next field is points to NULL
 
+## Today's Implementations:
+
+1. Insert a Node - Start of Doubly Linked List
+2. Insert a Node - End of Doubly Linked List
+3. Insert a Node - Sorted Order 
+4. Delete a Node - Start
+5. Delete a Node - End
+
 
