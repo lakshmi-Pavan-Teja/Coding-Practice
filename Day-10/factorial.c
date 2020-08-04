@@ -18,5 +18,5 @@ int main()
 	for(i=0;i<=k;i+=2)
 	res += cf(n,i);
 	printf("%d",res);
-	return 0;
+	return 0
 }
